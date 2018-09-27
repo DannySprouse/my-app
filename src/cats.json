@@ -1,0 +1,66 @@
+[
+    {
+        "breed": "abyssinian",
+        "image": "abyssinian.jpg"
+    },
+    {
+        "breed": "american_bobtail",
+        "image": "american_bobtail.jpg"
+    },
+    {
+        "breed": "bombay",
+        "image": "bombay.jpg"
+    },
+    {
+        "breed": "cornish_rex",
+        "image": "cornish_rex.jpg"
+    },
+    {
+        "breed": "havana_brown",
+        "image": "havana_brown.jpg"
+    },
+    {
+        "breed": "himalayan",
+        "image": "himalayan.jpg"
+    },
+    {
+        "breed": "korat",
+        "image": "korat.jpg"
+    },
+    {
+        "breed": "laperm",
+        "image": "laperm.jpg"
+    },
+    {
+        "breed": "maine_coon",
+        "image": "maine_coon.jpg"
+    },
+    {
+        "breed": "manx",
+        "image": "manx.jpg"
+    },
+    {
+        "breed": "ocicat",
+        "image": "ocicat.jpg"
+    },
+    {
+        "breed": "persian",
+        "image": "persian.jpg"
+    },
+    {
+        "breed": "ragdoll",
+        "image": "ragdoll.jpg"
+    },
+    {
+        "breed": "scottish_fold",
+        "image": "scottish_fold.jpg"
+    },
+    {
+        "breed": "sphynx",
+        "image": "sphynx.jpg"
+    },
+    {
+        "breed": "tonkinese",
+        "image": "tonkinese.jpg"
+    }
+]
